@@ -8,6 +8,6 @@
 	</parent>
 
 	<groupId>com.example.e4.rcp</groupId>
-	<artifactId>com.example.e4.rcp.plugin</artifactId>
-	<packaging>eclipse-plugin</packaging>
+	<artifactId>com.example.e4.rcp.feature</artifactId>
+	<packaging>eclipse-feature</packaging>
 </project>
